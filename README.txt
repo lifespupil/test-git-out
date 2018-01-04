@@ -1,3 +1,5 @@
 Hello, Git
 was up homie
-still earning 
+still earning
+
+first git push after creating local repo, yeehaw!
